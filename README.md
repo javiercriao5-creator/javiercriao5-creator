@@ -37,12 +37,12 @@ A diario utilizo un conjunto de herramientas enfocado en la eficiencia, el anál
 Aquí puedes ver el impacto de mi actividad y el código que construyo día a día:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=javiercriao5-creator&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiercriao5-creator&layout=compact&theme=tokyonight&langs_count=6" alt="Lenguajes más usados" height="190px"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javiercriao5-creator&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
 
 ---
